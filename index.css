@@ -1,0 +1,38 @@
+body{
+    border:5px solid black;
+    margin:auto;
+    
+    padding:20px;
+    padding-top: 0px;
+    /*background: #E0EAFC;  /* fallback for old browsers */
+/*background: -webkit-linear-gradient(to right, #CFDEF3, #E0EAFC);  /* Chrome 10-25, Safari 5.1-6 */
+/*background: linear-gradient(to right, #CFDEF3, #E0EAFC); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    background: #8e9eab;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #eef2f3, #8e9eab);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #eef2f3, #8e9eab); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+h3{
+    font-family: 'Playfair Display', serif;
+    font-family: 'Roboto Slab', serif;
+
+}
+img{
+    width:200px;
+    margin-right: 30px;
+}
+h5{
+    color:white;
+    background:#0a2241;
+}
+hr {
+    border: 0;
+    height: 1px;
+    background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0));
+}
+div{
+    font-family: 'Playfair Display', serif;
+}
+li{
+    text-align: start;
+}
