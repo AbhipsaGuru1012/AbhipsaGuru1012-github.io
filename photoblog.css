@@ -1,11 +1,8 @@
-.images{
-    
-}
 img{
-   width:30%;
-   height:33.33%;
-   float: left; 
-   margin: 1.66%;
+    width:30%;
+    height:33.33%;
+    float: left; 
+    margin: 1.66%;
 }
 h1{
     font-family: 'Rowdies', cursive;
@@ -17,4 +14,3 @@ h1{
     width:30%;
     padding-bottom: 20px;
 }
-
