@@ -15,7 +15,7 @@ body,input,select,button{
 	position: absolute;
 	z-index: 5;
 	top: 50%;
-	left: 50%;
+	left: 62%;
 	transform: translate(-50%, -50%);
 }
 #intro::after {
@@ -26,7 +26,7 @@ body,input,select,button{
 	right: 0;
 	bottom: 0;
 	top: 0;
-	background-color: rgba(0, 0, 0, 0.75);
+	background-color: rgba(77, 73, 73, 0.75);
 }
 #intro .about-me-content h1 span {
 	font-weight: 300;
@@ -41,7 +41,7 @@ body,input,select,button{
 }
 
 #intro img{
-    position: relative;
+    position: absolute;
     left: 0;
     top: 0;
     min-width: 100%;
